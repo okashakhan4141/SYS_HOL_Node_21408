@@ -1,0 +1,20 @@
+{
+  "name": "sys_hol_node_21408",
+  "version": "1.0.0",
+  "description": "System House of learning, Node Js Assignments",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okashakhan4141/SYS_HOL_Node_21408.git"
+  },
+  "author": "Okasha Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okashakhan4141/SYS_HOL_Node_21408/issues"
+  },
+  "homepage": "https://github.com/okashakhan4141/SYS_HOL_Node_21408#readme"
+}

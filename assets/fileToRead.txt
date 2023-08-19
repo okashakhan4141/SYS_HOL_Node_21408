@@ -1,0 +1,2 @@
+ <h1>Reading File using fs</h1> 
+ <h4>Created by Okasha Khan :)</h4> 
